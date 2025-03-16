@@ -1,0 +1,30 @@
+{
+  "name": "mofron-comp-iostoggle",
+  "version": "0.0.1",
+  "description": "ios style toggle switch component for mofron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "mofron-comp-frame":"",
+    "mofron-comp-circle":"",
+    "mofron-event-click":"",
+    "mofron-effect-move":"",
+    "mofron-effect-color":""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simpart/mofron-comp-iostoggle.git"
+  },
+  "keywords": [
+    "mofron",
+    "front-end"
+  ],
+  "author": "simparts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simpart/mofron-comp-iostoggle/issues"
+  },
+  "homepage": "https://github.com/simpart/mofron-comp-iostoggle#readme"
+}
